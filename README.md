@@ -1,0 +1,2 @@
+# HolidaysHotels
+Holidays Hotels is a website for customers who can book a motel and reserve the rooms based upon availability. Customers need to register their account with valid credentials to sign in for the website. Then they may proceed to book the rooms based upon the locations available and number of open rooms. The business of the motel has expanded vastly and they need a central location to keep track of the business and revenue. 
